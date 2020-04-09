@@ -19,4 +19,8 @@
     //极限压缩编译
     go build -ldflags -w
     apt install upx
-    upx dtool 
+    upx dtool
+    
+> 应用截图
+    
+![avatar](app_run.png) 
