@@ -1,4 +1,4 @@
-module new-dtool
+module dtool
 
 go 1.13
 
